@@ -2,11 +2,6 @@
 💻 Computer Engineering Student @ Nepal Engineering College  
 🚀 AI & Software Developer | Django | DRF | PyTorch | Java  
 
-### 🔥 About Me  
-- 💡 Passionate about AI/ML, full-stack development, and problem-solving  
-- 🔭 Working on real-time restaurant menu & AI-based decision-making projects  
-- 📚 Exploring deep learning and cloud computing  
-
 ### 🚀 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
