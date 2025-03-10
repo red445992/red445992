@@ -1,0 +1,17 @@
+# Hi, I'm Aditya Malla Thakuri   
+💻 Computer Engineering Student @ Nepal Engineering College  
+🚀 AI & Software Developer | Django | DRF | PyTorch | Java  
+
+### 🔥 About Me  
+- 💡 Passionate about AI/ML, full-stack development, and problem-solving  
+- 🔭 Working on real-time restaurant menu & AI-based decision-making projects  
+- 📚 Exploring deep learning and cloud computing  
+
+### 🚀 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+
+### 📊 GitHub Stats  
+![Red's GitHub Stats](https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&theme=dark)
