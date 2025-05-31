@@ -10,3 +10,9 @@
 
 ### 📊 GitHub Stats  
 ![Red's GitHub Stats](https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&theme=dark)
+
+## My Contribution Stats
+
+| Current Streak                                                                 | GitHub Stats                                                                |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=red445992)](https://git.io/streak-stats) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true) |
