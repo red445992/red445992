@@ -11,4 +11,4 @@
 ## My Contribution Stats
 | Current Streak                                                                 | GitHub Stats                                                                |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com?user=red445992)](https://git.io/streak-stats&show_icons=true&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&show_icons=true&theme=dark) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=red445992)](https://git.io/streak-stats&theme=dark) | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&show_icons=true&theme=dark) |
