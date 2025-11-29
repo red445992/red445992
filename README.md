@@ -1,63 +1,79 @@
-<!-- PROFILE BANNER -->
+
+<!-- Header Banner -->
 <p align="center">
   <img src="https://i.imgur.com/f0QvG7t.jpeg" width="100%" />
 </p>
 
+<!-- Title -->
 <h1 align="center">🦇 Aditya — The Night Coder</h1>
-<h3 align="center">When bugs rise, I rise higher.</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+%26+Automation+Engineer;Bug+Hunter+By+Night;Building+Systems+That+Never+Sleep" />
+</p>
 
 ---
 
-## 🛠️ Utility Belt
+## 🛠️ Tech Stack
 <p align="center">
-  
+
 <!-- Languages -->
-<img src="https://img.shields.io/badge/TypeScript-2d70e1?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-356fa0?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00aee1?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,go" height="50" />
+<br/>
 
 <!-- DevOps -->
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" height="50" />
 <br/>
-<img src="https://img.shields.io/badge/Docker-1287c3?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-346ae5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-7b42bd?style=for-the-badge&logo=terraform" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="50" />
+<br/>
 
 <!-- Testing / Monitoring -->
-<br/>
-<img src="https://img.shields.io/badge/Jest-bb2d3b?style=for-the-badge&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Cypress-1b1f23?style=for-the-badge&logo=cypress&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-d64b1a?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-f47b18?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=jest,cypress,prometheus,grafana" height="50" />
 
 </p>
 
 ---
 
-## 📊 Batcomputer Stats
+## ⚡ GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&count_private=true&theme=tokyonight&bg_color=000000&hide_border=true&icon_color=ffd700&title_color=ffd700" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=red445992&layout=compact&theme=tokyonight&bg_color=000000&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=red445992&theme=dark&hide_border=true&fire=FFD700&ring=FFD700&currStreakLabel=FFD700" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ffd700/red445992" alt="GitHub Contribution Chart" />
-</p>
-
----
-
-## 🦇 Contact — Summon the Signal
-<p align="center">
-  <a href="https://github.com/red445992"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/adityathakuri"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:thakuriaditya121@gmail.com"><img src="https://img.shields.io/badge/Email-7c2ae8?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/AdityaThakuri9"><img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x"></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=red445992&theme=react-dark&bg_color=000000&hide_border=true&line=FFD700&color=FFD700" />
 </p>
 
 ---
 
+## 📊 Stats Dashboard
+
 <p align="center">
-  <i>Silent coder by day. Relentless bug hunter by night.</i>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=FFD700&title_color=FFD700" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=red445992&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🦇 Animated Bat-Signal (Just for Style)
+
+<p align="center">
+  <img src="https://media.tenor.com/h6LF1x6D4GAAAAAC/batman-signal.gif" width="280">
+</p>
+
+---
+
+## 📡 Connect With Me
+<p align="center">
+  <a href="https://github.com/red445992"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/adityathakuri"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:thakuriaditya121@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/AdityaThakuri9"><img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=x"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=500&lines=Silent+Coder+By+Day.;Fearless+Bug+Hunter+By+Night.;Always+On+Patrol+In+The+Codebase." />
 </p>
