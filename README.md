@@ -44,20 +44,9 @@
 
 ---
 
-## 📊 Stats Dashboard
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=red445992&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=FFD700&title_color=FFD700" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=red445992&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
-## 🦇 Animated Bat-Signal (Just for Style)
-
-<p align="center">
-  <img src="https://media.tenor.com/h6LF1x6D4GAAAAAC/batman-signal.gif" width="280">
-</p>
 
 ---
 
