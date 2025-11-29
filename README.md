@@ -1,7 +1,7 @@
 
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/f0QvG7t.jpeg" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnp0dnZqZTNnNDZsdDgzdjE5NzNrN2NvMHQ5czlhNzNsMmViOHZpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/15BuYJbJlNvBC/giphy.gif" width="100%" />
 </p>
 
 <!-- Title -->
@@ -17,19 +17,16 @@
 <p align="center">
 
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=ts,js,python,go" height="50" />
+<img src="https://skillicons.dev/icons?i=ts,js,python" height="50" />
 <br/>
 
 <!-- DevOps -->
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions" height="50" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" height="50" />
 <br/>
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" height="50" />
+<img src="https://skillicons.dev/icons?i=react,nextjs" height="50" />
 <br/>
-
-<!-- Testing / Monitoring -->
-<img src="https://skillicons.dev/icons?i=jest,cypress,prometheus,grafana" height="50" />
 
 </p>
 
