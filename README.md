@@ -5,11 +5,8 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">🦇 Aditya — The Night Coder</h1>
+<h1 align="center">🦇 Aditya</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+%26+Automation+Engineer;Bug+Hunter+By+Night;Building+Systems+That+Never+Sleep" />
-</p>
 
 ---
 
