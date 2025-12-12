@@ -39,10 +39,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=red445992&theme=react-dark&bg_color=000000&hide_border=true&line=FFD700&color=FFD700" />
 </p>
 
----
-
-
----
 
 
 ---
@@ -57,6 +53,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=22&center=true&vCenter=true&width=500&lines=Silent+Coder+By+Day.;Fearless+Bug+Hunter+By+Night.;Always+On+Patrol+In+The+Codebase." />
-</p>
+
